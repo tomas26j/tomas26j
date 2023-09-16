@@ -1,5 +1,5 @@
 # 💫 About Me :
-🌱 Actualmente estudiando en SoyHenry<br>👨‍🎓 Certificado en SQL y Back End<br>🧩 Conocimientos en Desarrollo de Videojuegos<br>📩 Buscando oportunidades laborales
+🌱 Actualmente estudiando en SoyHenry<br>👨‍🎓 Certificado en SQL y Back End<br>🧩 Conocimientos en Desarrollo Web Full stack<br>📩 Buscando oportunidades laborales
 
 
 # 💻 Tech Stack :
