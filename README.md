@@ -1,5 +1,5 @@
 # 💫 About Me :
- 🌱 Estudiante Ciencia de Datos<br> 👨‍🎓 Certificado en SQL y Back End<br> 🧩 Conocimientos en Desarrollo Web Full stack<br> 📩 Buscando oportunidades laborales
+ 🌱 Estudiante de Licenciatura en Ciencia de Datos<br> 👨‍🎓 Certificado en SQL y Back End<br> 🧩 Conocimientos en Desarrollo Web Full stack<br> 📩 Buscando oportunidades laborales
 
 
 # 💻 Tech Stack :
